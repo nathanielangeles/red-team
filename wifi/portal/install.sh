@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# WIP: Fake wifi captive portal.
+# WIP: Fake Wifi Captive Portal Install Script.
 
 # Colors:
 W="\033[0;37m"
